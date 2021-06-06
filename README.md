@@ -3,5 +3,5 @@ This is my first couchbase client app. The Ranter App, where user can create and
 
 #Tech Stach
 Node.js
-Javascript
+express
 Couchbase
